@@ -1,2 +1,2 @@
-# Domina_la_Estadistica_Descriptiva_con_Excel
-Repositorio para tener a la mano los documentos como diapositivas, tareas, informes, etc. del curso de Domina la Estadística Descriptiva con Excel: Trucos y atajos
+# Bioestadistica_II
+Repositorio para consultar los documentos del curso de bioestadística II como son: planeaciób del curso, temario, bibliografía, problema prototípico, rúbrica del proyecto. notas, links a videos etc.
